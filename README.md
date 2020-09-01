@@ -1,6 +1,7 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https:///)
+[![Header](./img/serin cover.png) "Header")](https:///)
 
 # Hello, I am Serin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <!--
 **serin0837/serin0837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
