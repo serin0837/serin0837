@@ -16,7 +16,7 @@ and Now I am looking for my first step as a junior developer 💫
 
 ## Things I can do
 
-✅ Javascript, React, HTML5, CSS3, API, CSS framework(Bootstrap), Strapi, Jest, Node
+✅ Javascript ✅ React ✅ HTML5 ✅CSS3 ✅ API ✅ CSS framework(Bootstrap)✅ Strapi ✅ Jest ✅ Node
 
 ## Things I am learning now.
 
