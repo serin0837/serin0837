@@ -1,4 +1,4 @@
-[![Header](./img/serin-cover.png)](https://serin-jeon.herokuapp.com/)
+[![Header](serin-cover.png)](https://serin-jeon.herokuapp.com/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
