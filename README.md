@@ -1,39 +1,24 @@
-![Header](./img/serin-cover.png)
+[![Header](./img/serin-cover.png)](https://serin-jeon.herokuapp.com/)
 
-# Hello, I am Serin! :bowtie:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[website]: https://twitter.com/SerinJeon
+# Hello, I am Serin!
 
-[Twitter](https://twitter.com/SerinJeon)
+안녕하세요? I am Serin and I am from Korea.
+I moved to Manchester, the UK last year.
 
-[website]: https://www.linkedin.com/in/serin-jeon/
+Web development is my passion and consistency.
 
-[Linkedin](https://www.linkedin.com/in/serin-jeon/)
+I’m currently doing the #100DaysofCode challenge in my twitter since I graduated boot camp, Northcoders. Follow my journey(check my [Twitter](https://twitter.com/SerinJeon))
 
-- 🔭 I’m currently working on my first portfolio website and React app with server.
+and Now I am looking for my first step as a junior developer 💫
 
-- 🌱 I’m currently learning about Server side like node and express
+## Things I can do
 
-- 💬 Ask me about
+✅ Javascript, React, HTML5, CSS3, API, CSS framework(Bootstrap), Strapi, Jest, Node
 
-- 😄 Pronouns: ...
+## Things I am learning now.
 
-- ⚡ Fun fact: ...
-
-# skills
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-
-<!--
-**serin0837/serin0837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
--->
+➰ Express
+➰ MongoDB
