@@ -1,5 +1,5 @@
 [![Header](img/serin-cover.png)](https://serin-jeon.herokuapp.com/)
-Format: ![Alt Text](url)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
