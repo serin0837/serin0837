@@ -8,7 +8,7 @@
 안녕하세요? I am Serin and I am from Korea.
 I moved to Manchester, UK last year.
 
-Web development is my passion.
+Coding is my passion.
 
 I’m currently doing the #100DaysofCode challenge on twitter since graduating from Northcodes bootcamp. Follow my journey(check my [Twitter](https://twitter.com/SerinJeon))
 
