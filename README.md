@@ -22,3 +22,4 @@ and Now I am looking for my first step as a junior developer 💫
 
 ➰ Express
 ➰ MongoDB
+➰ AWS
