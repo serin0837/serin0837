@@ -1,5 +1,4 @@
-[![Header](img/serin-cover.png)](https://serin-jeon.herokuapp.com/)
-
+[![Header](./img/serin-cover.png)](https://serin-jeon.herokuapp.com/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -7,30 +6,21 @@
 # Hello, I am Serin!
 
 안녕하세요? I am Serin and I am from Korea.
-I moved to Manchester, the UK last year.
+I moved to Manchester, UK last year.
 
-Coding is my passion and consistency.
+Web development is my passion.
 
-I’m currently doing the #100DaysofCode challenge in my twitter since I graduated boot camp, Northcoders. Follow my journey(check my [Twitter](https://twitter.com/SerinJeon))
+I’m currently doing the #100DaysofCode challenge on twitter since graduating from Northcodes bootcamp. Follow my journey(check my [Twitter](https://twitter.com/SerinJeon))
 
-and Now I am looking for my first step as a junior developer 💫
+and now I am looking for my first step as a junior developer 💫
 
 ## Things I can do
 
-✅ Javascript 
-✅ React #
-✅ HTML5 
-✅CSS3 
-✅ API 
-✅ CSS framework(Bootstrap)
-✅ Jest, Mocha(Testing)
+- Language: ✅ Javascript
+- Front End: ✅ React ✅ HTML5 ✅CSS3 ✅ API ✅ CSS framework(Bootstrap)
+- Back End: ✅ Node ✅ Express ✅ MongoDB
+- Testing: ✅ Jest ✅ Node
 
 ## Things I am learning now.
 
-➰ Express
-➰ MongoDB
-<<<<<<< HEAD
 ➰ AWS
-=======
-➰ Node
->>>>>>> a33e3866f88d39e69eae00885ffb3c9fdfab76ca
