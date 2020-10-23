@@ -6,7 +6,7 @@
 # Hello, I am Serin!
 
 안녕하세요? I am Serin and I am from Korea.
-I moved to Manchester, UK last year.
+I moved to Manchester, UK in 2019.
 
 Coding is my passion.🔥🔥🔥
 
