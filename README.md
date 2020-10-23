@@ -19,7 +19,7 @@ and now I am looking for my first step as a junior developer 💫
 - Language: ✅ Javascript
 - Front End: ✅ React ✅ HTML5 ✅CSS3 ✅ API ✅ CSS framework(Bootstrap)
 - Back End: ✅ Node ✅ Express ✅ MongoDB
-- Testing: ✅ Jest ✅ Node
+- Testing: ✅ Jest
 
 ## Things I am learning now.
 
