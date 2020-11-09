@@ -23,4 +23,4 @@ and now I am looking for my first step as a junior developer 💫
 
 ## Things I am learning now.
 
-- ➰ AWS
+- ➰ AWS, Automated testing
