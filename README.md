@@ -6,7 +6,7 @@
 # Hello, I am Serin!
 
 안녕하세요? I am Serin and I am from Korea.
-I moved to Manchester, UK last year.
+I moved to Manchester, UK in 2019.
 
 Coding is my passion.🔥🔥🔥
 
@@ -23,8 +23,12 @@ and now I am looking for my first step as a junior developer. 💫
 
 ## Things I am learning now.
 
+<<<<<<< HEAD
 - Language: 🤓Python
 - Front End: 🤓GraphQL
 - Back End: 🤓SQL, mySQL
 - Testing: 🤓 React testing library
 - 🤓DevOps
+=======
+- ➰ AWS, Automated testing
+>>>>>>> 395ef5fab96429b1957df824ca147e0e9c8193e3
