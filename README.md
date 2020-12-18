@@ -10,17 +10,21 @@ I moved to Manchester, UK last year.
 
 Coding is my passion.🔥🔥🔥
 
-I’m currently doing the #100DaysofCode challenge on twitter since graduating from Northcodes bootcamp. Follow my journey!💗(check my [Twitter](https://twitter.com/SerinJeon))
+I finished the #100DaysofCode challenge on Twitter since graduating from Northcoders bootcamp in Manchester and never stop coding! Follow my journey on Twitter because I will come back soon with the second round!💗 (my [Twitter](https://twitter.com/SerinJeon))
 
-and now I am looking for my first step as a junior developer 💫
+and now I am looking for my first step as a junior developer. 💫
 
-## Things I can do
+## Things I can do.
 
 - Language: ✅ Javascript
 - Front End: ✅ React ✅ HTML5 ✅CSS3 ✅ API ✅ CSS framework(Bootstrap)
 - Back End: ✅ Node ✅ Express ✅ MongoDB
-- Testing: ✅ Jest ✅ Node
+- Testing: ✅ Jest
 
 ## Things I am learning now.
 
-- ➰ AWS
+- Language: 🤓Python
+- Front End: 🤓GraphQL
+- Back End: 🤓SQL, mySQL
+- Testing: 🤓 React testing library
+- 🤓DevOps
