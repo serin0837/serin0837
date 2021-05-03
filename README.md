@@ -4,7 +4,7 @@
 # Hello, I am Serin! 💜
 
 and I am 
-- Junior DevOps Engineer at Total Processing, fast growing fintech company in Manchester.
+- Junior DevOps Engineer at Total Processing, a fast growing fintech company in Manchester.
 - Career changer from HR assistatnt to tech industry.<br><br>
 # 안녕하세요! 🇰🇷
 저는 
