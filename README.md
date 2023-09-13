@@ -5,7 +5,7 @@
 
 and I am 
 - Junior DevOps Engineer at Total Processing, a fast growing fintech company in Manchester.
-- Career changer from HR assistatnt to tech industry.<br><br>
+- Career changer from HR assistant to tech industry.<br><br>
 # 안녕하세요! 🇰🇷
 저는 
 - 영국 맨체스터의 Total Processing 이라는 회사에서 주니어 데브옵스 엔지니어로 일하고 있습니다.
